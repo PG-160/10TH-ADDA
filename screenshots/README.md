@@ -6,12 +6,20 @@ Screenshots of the 10TH ADDA website.
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](Homepage.png)
 
 ### Physics
 
-![Physics](screenshots/physics.png)
+![Physics](Physics.png)
 
 ### Chemistry
 
-![Chemistry](screenshots/chemistry.png)
+![Chemistry](Chemistry.png)
+
+### Biology
+
+![Biology](Biology.png)
+
+### Simulator
+
+![Simulator](simulator.png)
