@@ -3,11 +3,11 @@
 10TH ADDA is a free educational Student-led platform for CBSE Class 10 students that brings learning to life through interactive 3D models and simulations.My project aims to make complex concepts easier to understand by organizing high-quality educational resources into a simple, student-friendly experience. In short 10th ADDA is like a Digital library where I try to Organise 3D models and simulations for class 10th students and Teachers 
 
 # Features
-Interactive 3D Models
-Educational Simulations
-User-Friendly Website
-Easy Subject Navigation
-Designed for Visual Learning
+-Interactive 3D Models
+-Educational Simulations
+-User-Friendly Website
+-Easy Subject Navigation
+-Designed for Visual Learning
 
 # Goal of this project:
 
