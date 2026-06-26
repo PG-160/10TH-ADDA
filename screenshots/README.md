@@ -6,7 +6,7 @@ Screenshots of the 10TH ADDA website.
 
 ### Homepage
 
-![Homepage](Home_page.PNG)
+![Homepage](HP.PNG)
 
 ### Physics
 
