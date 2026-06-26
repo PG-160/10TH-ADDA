@@ -21,3 +21,27 @@ The goal is to make learning more engaging by replacing rote memorization with v
 All embedded models, simulations, and related content remain the intellectual property of their respective creators and are used in accordance with their applicable licenses and terms of use.
 
 #Suggestions and feedback are always welcome to help improve the project
+
+Screenshots of the 10TH ADDA website.
+
+## Screenshots
+
+### Homepage
+
+![Homepage](homepage.PNG)
+
+### Physics
+
+![Physics](Physics.PNG)
+
+### Chemistry
+
+![Chemistry](Chemistry.PNG)
+
+### Biology
+
+![Biology](Biology.PNG)
+
+### Simulator
+
+![Simulator](simulator.PNG)
