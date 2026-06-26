@@ -21,10 +21,9 @@ The goal is to make learning more engaging by replacing rote memorization with v
 10TH ADDA organizes and embeds educational resources from their original creators, allowing students and teachers to easily find 3D models and simulations according to the CBSE syllabus in one place, without spending hours searching the internet.
 All embedded models, simulations, and related content remain the intellectual property of their respective creators and are used in accordance with their applicable licenses and terms of use.
 
-# Suggestions and feedback are always welcome to help improve the project
+## Suggestions and feedback are always welcome to help improve the project
 
-# Screenshots of the 10TH ADDA website.
-
+# Screenshots of the 10TH ADDA website:
 ## Screenshots
 
 ### Homepage
